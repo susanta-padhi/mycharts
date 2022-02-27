@@ -9,6 +9,6 @@ entries:
     name: helm-chart-test
     type: application
     urls:
-    - https://github.com/susanta-padhi/mycharts/helm-chart-test-0.1.0.tgz
+    - helm-chart-test-0.1.0.tgz
     version: 0.1.0
 generated: "2022-02-27T15:19:43.74473-05:00"
